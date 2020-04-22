@@ -27,8 +27,8 @@ If you find our work useful in your research please consider citing our paper:
           Thomassim Guimarães, Tainá and 
           Menezes de Souza, Eniuce and 
           C. Zanotta, Daniel and 
-          Roberto Veronez, 
-          Mauricio and Gonzaga, Luiz and 
+          Roberto Veronez, Mauricio and 
+          Gonzaga, Luiz and 
           Mauad, Frederico Fábio}, 
   year={2020}, 
   month={Apr}, 
