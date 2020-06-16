@@ -12,6 +12,8 @@ For a more in-depth understanding of the method, please consider reading the pub
 
 [A Method for Chlorophyll-a and Suspended Solids Prediction through Remote Sensing and Machine Learning](https://doi.org/10.3390/s20072125)
 
+Authors: [Lucas Silveira Kupssinskü](https://www.researchgate.net/profile/Lucas_Kupssinskue), [Tainá Thomassim Guimarães](https://www.researchgate.net/profile/Taina_Guimaraes), [Eniuce Menezes de Souza](https://www.researchgate.net/profile/Eniuce_Souza), [Daniel C. Zanotta](https://www.researchgate.net/profile/Daniel_Zanotta), [Mauricio Roberto Veronez](https://www.researchgate.net/profile/Mauricio_Veronez) and [Luiz Gonzaga, Jr](https://www.researchgate.net/profile/Luiz_Gonzaga_da_Silveira_Jr) 
+
 Published in: [Sensors MDPI](https://www.mdpi.com/journal/sensors/special_issues/ICST2019)
 
 # Table of contents 
@@ -68,7 +70,7 @@ If you find our work useful in your research please consider citing our paper:
 
 
 ## Credits
-This work is credited to the [Vizlab | X-Reality and GeoInformatics Lab](http://www.vizlab.unisinos.br/) and the following authors and developers: [Lucas Silveira Kupssinskü](https://www.researchgate.net/profile/Lucas_Kupssinskue), [Tainá Thomassim Guimarães](https://www.researchgate.net/profile/Taina_Guimaraes), [Eniuce Menezes de Souza](https://www.researchgate.net/profile/Eniuce_Souza), [Daniel C. Zanotta](https://www.researchgate.net/profile/Daniel_Zanotta), [Mauricio Roberto Veronez](https://www.researchgate.net/profile/Mauricio_Veronez) and [Luiz Gonzaga, Jr](https://www.researchgate.net/profile/Luiz_Gonzaga_da_Silveira_Jr) 
+This work is credited to the [Vizlab | X-Reality and GeoInformatics Lab](http://www.vizlab.unisinos.br/) and the following authors and developers: [Lucas Silveira Kupssinskü](https://www.researchgate.net/profile/Lucas_Kupssinskue) and [Tainá Thomassim Guimarães](https://www.researchgate.net/profile/Taina_Guimaraes)
 
 
 ## License
