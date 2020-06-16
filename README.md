@@ -12,6 +12,8 @@ For a more in-depth understanding of the method, please consider reading the pub
 
 [A Method for Chlorophyll-a and Suspended Solids Prediction through Remote Sensing and Machine Learning](https://doi.org/10.3390/s20072125)
 
+Published in: [Sensors MDPI](https://www.mdpi.com/journal/sensors/special_issues/ICST2019)
+
 # Table of contents 
 
 - [Requirements](#requirements) 
@@ -35,7 +37,7 @@ matplotlib
 ## Usage
 This code is ready to run on google colab environment, the data is also avaliable in this repository. Just follow the link bellow and import the xls data files into your environment.
 
->[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/lucaskup/TSS_ChlorophyllA_Prediction/blob/master/MDPI_Sensors_Chlorophilla.ipynb)
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/lucaskup/TSS_ChlorophyllA_Prediction/blob/master/MDPI_Sensors_Chlorophilla.ipynb)
 
 ## How to cite
 
